@@ -1,2 +1,2 @@
 # Donation-Managment-System
-Project made using jave in netbeans 8.2
+Project made using java in netbeans 8.2
